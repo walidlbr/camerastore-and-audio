@@ -1,13 +1,13 @@
 <libraries>
   <library
-      name="__local_aars__:/Users/mac/Developpement/flutter projects/mobile/bastion23flutter/build/app/intermediates/flutter/release/libs.jar:unspecified@jar"
-      jars="/Users/mac/Developpement/flutter projects/mobile/bastion23flutter/build/app/intermediates/flutter/release/libs.jar"
-      resolved="__local_aars__:/Users/mac/Developpement/flutter projects/mobile/bastion23flutter/build/app/intermediates/flutter/release/libs.jar:unspecified"/>
+      name="__local_aars__:/Users/mac/Developpement/flutter projects/mobile/tpcamera/build/app/intermediates/flutter/release/libs.jar:unspecified@jar"
+      jars="/Users/mac/Developpement/flutter projects/mobile/tpcamera/build/app/intermediates/flutter/release/libs.jar"
+      resolved="__local_aars__:/Users/mac/Developpement/flutter projects/mobile/tpcamera/build/app/intermediates/flutter/release/libs.jar:unspecified"/>
   <library
-      name="/Users/mac/Developpement/flutter projects/mobile/bastion23flutter/android@@:permission_handler_android::release"
-      jars="/Users/mac/Developpement/flutter projects/mobile/bastion23flutter/build/permission_handler_android/.transforms/bc2b476c487408cb2f11ab1b416e6d56/transformed/out/jars/classes.jar:/Users/mac/Developpement/flutter projects/mobile/bastion23flutter/build/permission_handler_android/.transforms/bc2b476c487408cb2f11ab1b416e6d56/transformed/out/jars/libs/R.jar"
+      name="/Users/mac/Developpement/flutter projects/mobile/tpcamera/android@@:permission_handler_android::release"
+      jars="/Users/mac/Developpement/flutter projects/mobile/tpcamera/build/permission_handler_android/.transforms/80a0dd3a805c9941995f1ce40eb33683/transformed/out/jars/classes.jar:/Users/mac/Developpement/flutter projects/mobile/tpcamera/build/permission_handler_android/.transforms/80a0dd3a805c9941995f1ce40eb33683/transformed/out/jars/libs/R.jar"
       resolved="com.baseflow.permissionhandler:permission_handler_android:unspecified"
-      folder="/Users/mac/Developpement/flutter projects/mobile/bastion23flutter/build/permission_handler_android/.transforms/bc2b476c487408cb2f11ab1b416e6d56/transformed/out"
+      folder="/Users/mac/Developpement/flutter projects/mobile/tpcamera/build/permission_handler_android/.transforms/80a0dd3a805c9941995f1ce40eb33683/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -17,10 +17,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="/Users/mac/Developpement/flutter projects/mobile/bastion23flutter/android@@:flutter_plugin_android_lifecycle::release"
-      jars="/Users/mac/Developpement/flutter projects/mobile/bastion23flutter/build/flutter_plugin_android_lifecycle/.transforms/59f7a69031948b4181e79170bc8eb006/transformed/out/jars/classes.jar:/Users/mac/Developpement/flutter projects/mobile/bastion23flutter/build/flutter_plugin_android_lifecycle/.transforms/59f7a69031948b4181e79170bc8eb006/transformed/out/jars/libs/R.jar"
+      name="/Users/mac/Developpement/flutter projects/mobile/tpcamera/android@@:flutter_plugin_android_lifecycle::release"
+      jars="/Users/mac/Developpement/flutter projects/mobile/tpcamera/build/flutter_plugin_android_lifecycle/.transforms/f4cd4e93ba5db02aa09dbcb8c52b4a9e/transformed/out/jars/classes.jar:/Users/mac/Developpement/flutter projects/mobile/tpcamera/build/flutter_plugin_android_lifecycle/.transforms/f4cd4e93ba5db02aa09dbcb8c52b4a9e/transformed/out/jars/libs/R.jar"
       resolved="io.flutter.plugins.flutter_plugin_android_lifecycle:flutter_plugin_android_lifecycle:unspecified"
-      folder="/Users/mac/Developpement/flutter projects/mobile/bastion23flutter/build/flutter_plugin_android_lifecycle/.transforms/59f7a69031948b4181e79170bc8eb006/transformed/out"
+      folder="/Users/mac/Developpement/flutter projects/mobile/tpcamera/build/flutter_plugin_android_lifecycle/.transforms/f4cd4e93ba5db02aa09dbcb8c52b4a9e/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -30,10 +30,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="/Users/mac/Developpement/flutter projects/mobile/bastion23flutter/android@@:audioplayers_android::release"
-      jars="/Users/mac/Developpement/flutter projects/mobile/bastion23flutter/build/audioplayers_android/.transforms/73455473e0187c8d85a2a327a0c7afdd/transformed/out/jars/classes.jar:/Users/mac/Developpement/flutter projects/mobile/bastion23flutter/build/audioplayers_android/.transforms/73455473e0187c8d85a2a327a0c7afdd/transformed/out/jars/libs/R.jar"
+      name="/Users/mac/Developpement/flutter projects/mobile/tpcamera/android@@:audioplayers_android::release"
+      jars="/Users/mac/Developpement/flutter projects/mobile/tpcamera/build/audioplayers_android/.transforms/0d17f72135b4f9fe7fc75a296adb34ac/transformed/out/jars/classes.jar:/Users/mac/Developpement/flutter projects/mobile/tpcamera/build/audioplayers_android/.transforms/0d17f72135b4f9fe7fc75a296adb34ac/transformed/out/jars/libs/R.jar"
       resolved="xyz.luan.audioplayers:audioplayers_android:unspecified"
-      folder="/Users/mac/Developpement/flutter projects/mobile/bastion23flutter/build/audioplayers_android/.transforms/73455473e0187c8d85a2a327a0c7afdd/transformed/out"
+      folder="/Users/mac/Developpement/flutter projects/mobile/tpcamera/build/audioplayers_android/.transforms/0d17f72135b4f9fe7fc75a296adb34ac/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -43,10 +43,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="/Users/mac/Developpement/flutter projects/mobile/bastion23flutter/android@@:camera_android::release"
-      jars="/Users/mac/Developpement/flutter projects/mobile/bastion23flutter/build/camera_android/.transforms/583e63c59fc6c67d9ee7cf71a836cb36/transformed/out/jars/classes.jar:/Users/mac/Developpement/flutter projects/mobile/bastion23flutter/build/camera_android/.transforms/583e63c59fc6c67d9ee7cf71a836cb36/transformed/out/jars/libs/R.jar"
+      name="/Users/mac/Developpement/flutter projects/mobile/tpcamera/android@@:camera_android::release"
+      jars="/Users/mac/Developpement/flutter projects/mobile/tpcamera/build/camera_android/.transforms/41e31eb1de3166c950f6feaf9967ebbf/transformed/out/jars/classes.jar:/Users/mac/Developpement/flutter projects/mobile/tpcamera/build/camera_android/.transforms/41e31eb1de3166c950f6feaf9967ebbf/transformed/out/jars/libs/R.jar"
       resolved="io.flutter.plugins.camera:camera_android:unspecified"
-      folder="/Users/mac/Developpement/flutter projects/mobile/bastion23flutter/build/camera_android/.transforms/583e63c59fc6c67d9ee7cf71a836cb36/transformed/out"
+      folder="/Users/mac/Developpement/flutter projects/mobile/tpcamera/build/camera_android/.transforms/41e31eb1de3166c950f6feaf9967ebbf/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -56,10 +56,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="/Users/mac/Developpement/flutter projects/mobile/bastion23flutter/android@@:path_provider_android::release"
-      jars="/Users/mac/Developpement/flutter projects/mobile/bastion23flutter/build/path_provider_android/.transforms/c82178ea7f71e71c5b04a8ea5743c233/transformed/out/jars/classes.jar:/Users/mac/Developpement/flutter projects/mobile/bastion23flutter/build/path_provider_android/.transforms/c82178ea7f71e71c5b04a8ea5743c233/transformed/out/jars/libs/R.jar"
+      name="/Users/mac/Developpement/flutter projects/mobile/tpcamera/android@@:path_provider_android::release"
+      jars="/Users/mac/Developpement/flutter projects/mobile/tpcamera/build/path_provider_android/.transforms/34aa3e7f7f15b7aebacedbe7c4572d4f/transformed/out/jars/classes.jar:/Users/mac/Developpement/flutter projects/mobile/tpcamera/build/path_provider_android/.transforms/34aa3e7f7f15b7aebacedbe7c4572d4f/transformed/out/jars/libs/R.jar"
       resolved="io.flutter.plugins.pathprovider:path_provider_android:unspecified"
-      folder="/Users/mac/Developpement/flutter projects/mobile/bastion23flutter/build/path_provider_android/.transforms/c82178ea7f71e71c5b04a8ea5743c233/transformed/out"
+      folder="/Users/mac/Developpement/flutter projects/mobile/tpcamera/build/path_provider_android/.transforms/34aa3e7f7f15b7aebacedbe7c4572d4f/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -69,10 +69,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="/Users/mac/Developpement/flutter projects/mobile/bastion23flutter/android@@:image_picker_android::release"
-      jars="/Users/mac/Developpement/flutter projects/mobile/bastion23flutter/build/image_picker_android/.transforms/e048b80b37d0ca2fd48780bfe7f32654/transformed/out/jars/classes.jar:/Users/mac/Developpement/flutter projects/mobile/bastion23flutter/build/image_picker_android/.transforms/e048b80b37d0ca2fd48780bfe7f32654/transformed/out/jars/libs/R.jar"
+      name="/Users/mac/Developpement/flutter projects/mobile/tpcamera/android@@:image_picker_android::release"
+      jars="/Users/mac/Developpement/flutter projects/mobile/tpcamera/build/image_picker_android/.transforms/d6eadce43d9d5c59d1f4ee85d280eb40/transformed/out/jars/classes.jar:/Users/mac/Developpement/flutter projects/mobile/tpcamera/build/image_picker_android/.transforms/d6eadce43d9d5c59d1f4ee85d280eb40/transformed/out/jars/libs/R.jar"
       resolved="io.flutter.plugins.imagepicker:image_picker_android:unspecified"
-      folder="/Users/mac/Developpement/flutter projects/mobile/bastion23flutter/build/image_picker_android/.transforms/e048b80b37d0ca2fd48780bfe7f32654/transformed/out"
+      folder="/Users/mac/Developpement/flutter projects/mobile/tpcamera/build/image_picker_android/.transforms/d6eadce43d9d5c59d1f4ee85d280eb40/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -82,10 +82,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="/Users/mac/Developpement/flutter projects/mobile/bastion23flutter/android@@:gallery_saver::release"
-      jars="/Users/mac/Developpement/flutter projects/mobile/bastion23flutter/build/gallery_saver/.transforms/d0a4807023dd066d663b148e32ca2552/transformed/out/jars/classes.jar:/Users/mac/Developpement/flutter projects/mobile/bastion23flutter/build/gallery_saver/.transforms/d0a4807023dd066d663b148e32ca2552/transformed/out/jars/libs/R.jar"
+      name="/Users/mac/Developpement/flutter projects/mobile/tpcamera/android@@:gallery_saver::release"
+      jars="/Users/mac/Developpement/flutter projects/mobile/tpcamera/build/gallery_saver/.transforms/e49031a5918f66a973cc5ab0ff78424e/transformed/out/jars/classes.jar:/Users/mac/Developpement/flutter projects/mobile/tpcamera/build/gallery_saver/.transforms/e49031a5918f66a973cc5ab0ff78424e/transformed/out/jars/libs/R.jar"
       resolved="carnegietechnologies.gallery_saver:gallery_saver:unspecified"
-      folder="/Users/mac/Developpement/flutter projects/mobile/bastion23flutter/build/gallery_saver/.transforms/d0a4807023dd066d663b148e32ca2552/transformed/out"
+      folder="/Users/mac/Developpement/flutter projects/mobile/tpcamera/build/gallery_saver/.transforms/e49031a5918f66a973cc5ab0ff78424e/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"

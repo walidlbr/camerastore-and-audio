@@ -74,44 +74,44 @@ class InformationPage extends StatelessWidget {
           ),
           Positioned(
             top: 60,
-            child: Column(
-              children: [
-                const Text(
-                  'Bastion 23',
-                  style: TextStyle(
-                      fontSize: 35, fontFamily: "Cinzel", color: Colors.white),
-                ),
-                const SizedBox(
-                  height: 15,
-                ),
-                const Text(
-                  'Information',
-                  style: TextStyle(
-                      fontSize: 15, fontFamily: "Cinzel", color: Colors.white),
-                ),
-                const SizedBox(
-                  height: 30,
-                ),
-                SizedBox(
-                  width: screenWidth * 0.9,
-                  height: screenHeight - 200,
-                  child: Expanded(
-                    child: SingleChildScrollView(
-                      child: Container(
-                        margin: const EdgeInsets.symmetric(horizontal: 20),
-                        width: screenWidth * 0.9,
-                        child: const Text(
-                          'The Palais des Rais (Arabic: قصر الرياس), also known as Bastion 23, is a classified historical monument located in Algiers, Algeria. It is notable for its architecture and for being the last surviving quarter (houma) of the lower Casbah Consisting of three palaces and six houses, whose history began with the construction of Bordj-Ez-zoubia in 1576 by the Dey Ramdhan Pasha in order to reinforce the means of defense of this side of the Medina, this quarter ended up being detached, and even isolated from its traditional environment following the restructuring of the lower Casbah during the French period. It was not until 1909 that Bastion 23 was classified as a Historical Monument under the name Group of Moorish houses',
-                          style: TextStyle(
-                              fontSize: 17,
-                              fontFamily: "Cinzel",
-                              color: Colors.white),
-                        ),
-                      ),
+            child: SizedBox(
+              width: screenWidth * 0.9,
+              height: screenHeight,
+              child: Column(
+                children: [
+                  const Text(
+                    'Bastion 23',
+                    style: TextStyle(
+                        fontSize: 35,
+                        fontFamily: "Cinzel",
+                        color: Colors.white),
+                  ),
+                  const SizedBox(
+                    height: 15,
+                  ),
+                  const Text(
+                    'Information',
+                    style: TextStyle(
+                        fontSize: 15,
+                        fontFamily: "Cinzel",
+                        color: Colors.white),
+                  ),
+                  const SizedBox(
+                    height: 30,
+                  ),
+                  Container(
+                    margin: const EdgeInsets.symmetric(horizontal: 20),
+                    width: screenWidth * 0.9,
+                    child: const Text(
+                      'The Palais des Rais (Arabic: قصر الرياس), also known as Bastion 23, is a classified historical monument located in Algiers, Algeria. It is notable for its architecture and for being the last surviving quarter (houma) of the lower Casbah Consisting of three palaces and six houses, whose history began with the construction of Bordj-Ez-zoubia in 1576 by the Dey Ramdhan Pasha in order to reinforce the means of defense of this side of the Medina, this quarter ended up being detached, and even isolated from its traditional environment following the restructuring of the lower Casbah during the French period. It was not until 1909 that Bastion 23 was classified as a Historical Monument under the name Group of Moorish houses',
+                      style: TextStyle(
+                          fontSize: 17,
+                          fontFamily: "Cinzel",
+                          color: Colors.white),
                     ),
                   ),
-                ),
-              ],
+                ],
+              ),
             ),
           ),
         ],

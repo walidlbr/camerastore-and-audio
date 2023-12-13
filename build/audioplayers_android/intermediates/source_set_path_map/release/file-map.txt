@@ -6,9 +6,9 @@ xyz.luan.audioplayers.audioplayers_android-jetified-window-java-1.0.0-beta04-4 /
 xyz.luan.audioplayers.audioplayers_android-core-1.9.0-5 /Users/mac/.gradle/caches/transforms-3/c2aff38445ebad8ddeaa989ecf50f56e/transformed/core-1.9.0/res
 xyz.luan.audioplayers.audioplayers_android-main-6 /Users/mac/.pub-cache/hosted/pub.dev/audioplayers_android-4.0.3/android/src/main/res
 xyz.luan.audioplayers.audioplayers_android-release-7 /Users/mac/.pub-cache/hosted/pub.dev/audioplayers_android-4.0.3/android/src/release/res
-xyz.luan.audioplayers.audioplayers_android-pngs-8 /Users/mac/Developpement/flutter projects/mobile/bastion23flutter/build/audioplayers_android/generated/res/pngs/release
-xyz.luan.audioplayers.audioplayers_android-resValues-9 /Users/mac/Developpement/flutter projects/mobile/bastion23flutter/build/audioplayers_android/generated/res/resValues/release
-xyz.luan.audioplayers.audioplayers_android-rs-10 /Users/mac/Developpement/flutter projects/mobile/bastion23flutter/build/audioplayers_android/generated/res/rs/release
-xyz.luan.audioplayers.audioplayers_android-mergeReleaseResources-11 /Users/mac/Developpement/flutter projects/mobile/bastion23flutter/build/audioplayers_android/intermediates/incremental/release/mergeReleaseResources/merged.dir
-xyz.luan.audioplayers.audioplayers_android-mergeReleaseResources-12 /Users/mac/Developpement/flutter projects/mobile/bastion23flutter/build/audioplayers_android/intermediates/incremental/release/mergeReleaseResources/stripped.dir
-xyz.luan.audioplayers.audioplayers_android-merged_res-13 /Users/mac/Developpement/flutter projects/mobile/bastion23flutter/build/audioplayers_android/intermediates/merged_res/release
+xyz.luan.audioplayers.audioplayers_android-pngs-8 /Users/mac/Developpement/flutter projects/mobile/tpcamera/build/audioplayers_android/generated/res/pngs/release
+xyz.luan.audioplayers.audioplayers_android-resValues-9 /Users/mac/Developpement/flutter projects/mobile/tpcamera/build/audioplayers_android/generated/res/resValues/release
+xyz.luan.audioplayers.audioplayers_android-rs-10 /Users/mac/Developpement/flutter projects/mobile/tpcamera/build/audioplayers_android/generated/res/rs/release
+xyz.luan.audioplayers.audioplayers_android-mergeReleaseResources-11 /Users/mac/Developpement/flutter projects/mobile/tpcamera/build/audioplayers_android/intermediates/incremental/release/mergeReleaseResources/merged.dir
+xyz.luan.audioplayers.audioplayers_android-mergeReleaseResources-12 /Users/mac/Developpement/flutter projects/mobile/tpcamera/build/audioplayers_android/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+xyz.luan.audioplayers.audioplayers_android-merged_res-13 /Users/mac/Developpement/flutter projects/mobile/tpcamera/build/audioplayers_android/intermediates/merged_res/release

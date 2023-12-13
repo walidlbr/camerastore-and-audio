@@ -1,0 +1,1 @@
+ /Users/mac/Developpement/flutter\ projects/mobile/tpcamera/.dart_tool/flutter_build/480f78a1d90eda8ff4b176e597d781fb/native_assets.yaml: 

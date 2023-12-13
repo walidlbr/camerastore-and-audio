@@ -15,10 +15,10 @@ io.flutter.plugins.imagepicker.image_picker_android-lifecycle-runtime-2.6.1-13 /
 io.flutter.plugins.imagepicker.image_picker_android-lifecycle-livedata-core-2.6.1-14 /Users/mac/.gradle/caches/transforms-3/eed11806d4af25229ebcb855da7e9479/transformed/lifecycle-livedata-core-2.6.1/res
 io.flutter.plugins.imagepicker.image_picker_android-main-15 /Users/mac/.pub-cache/hosted/pub.dev/image_picker_android-0.8.8+2/android/src/main/res
 io.flutter.plugins.imagepicker.image_picker_android-release-16 /Users/mac/.pub-cache/hosted/pub.dev/image_picker_android-0.8.8+2/android/src/release/res
-io.flutter.plugins.imagepicker.image_picker_android-packaged_res-17 /Users/mac/Developpement/flutter projects/mobile/bastion23flutter/build/flutter_plugin_android_lifecycle/intermediates/packaged_res/release
-io.flutter.plugins.imagepicker.image_picker_android-pngs-18 /Users/mac/Developpement/flutter projects/mobile/bastion23flutter/build/image_picker_android/generated/res/pngs/release
-io.flutter.plugins.imagepicker.image_picker_android-resValues-19 /Users/mac/Developpement/flutter projects/mobile/bastion23flutter/build/image_picker_android/generated/res/resValues/release
-io.flutter.plugins.imagepicker.image_picker_android-rs-20 /Users/mac/Developpement/flutter projects/mobile/bastion23flutter/build/image_picker_android/generated/res/rs/release
-io.flutter.plugins.imagepicker.image_picker_android-mergeReleaseResources-21 /Users/mac/Developpement/flutter projects/mobile/bastion23flutter/build/image_picker_android/intermediates/incremental/release/mergeReleaseResources/merged.dir
-io.flutter.plugins.imagepicker.image_picker_android-mergeReleaseResources-22 /Users/mac/Developpement/flutter projects/mobile/bastion23flutter/build/image_picker_android/intermediates/incremental/release/mergeReleaseResources/stripped.dir
-io.flutter.plugins.imagepicker.image_picker_android-merged_res-23 /Users/mac/Developpement/flutter projects/mobile/bastion23flutter/build/image_picker_android/intermediates/merged_res/release
+io.flutter.plugins.imagepicker.image_picker_android-packaged_res-17 /Users/mac/Developpement/flutter projects/mobile/tpcamera/build/flutter_plugin_android_lifecycle/intermediates/packaged_res/release
+io.flutter.plugins.imagepicker.image_picker_android-pngs-18 /Users/mac/Developpement/flutter projects/mobile/tpcamera/build/image_picker_android/generated/res/pngs/release
+io.flutter.plugins.imagepicker.image_picker_android-resValues-19 /Users/mac/Developpement/flutter projects/mobile/tpcamera/build/image_picker_android/generated/res/resValues/release
+io.flutter.plugins.imagepicker.image_picker_android-rs-20 /Users/mac/Developpement/flutter projects/mobile/tpcamera/build/image_picker_android/generated/res/rs/release
+io.flutter.plugins.imagepicker.image_picker_android-mergeReleaseResources-21 /Users/mac/Developpement/flutter projects/mobile/tpcamera/build/image_picker_android/intermediates/incremental/release/mergeReleaseResources/merged.dir
+io.flutter.plugins.imagepicker.image_picker_android-mergeReleaseResources-22 /Users/mac/Developpement/flutter projects/mobile/tpcamera/build/image_picker_android/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+io.flutter.plugins.imagepicker.image_picker_android-merged_res-23 /Users/mac/Developpement/flutter projects/mobile/tpcamera/build/image_picker_android/intermediates/merged_res/release
